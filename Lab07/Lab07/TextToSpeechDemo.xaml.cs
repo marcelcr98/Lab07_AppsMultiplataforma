@@ -33,6 +33,6 @@ namespace Lab07
 
             Content = speak;
         }
-    }
 
+    }
 }

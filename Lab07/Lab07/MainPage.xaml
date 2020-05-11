@@ -5,13 +5,13 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Lab07.MainPage">
-    <StackLayout>
+
 
         <StackLayout>
-            <Button x:Name="Item12" Text="TextToSpeech"/>
+            <Button x:Name="Item12" Text="Text To Speech"/>
             <Button x:Name="Item13" Text="IBattery"/>
             <Button x:Name="Item14" Text="CodeQR"/>
         </StackLayout>
       
-    </StackLayout>
+
 </ContentPage>

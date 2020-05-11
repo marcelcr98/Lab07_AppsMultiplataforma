@@ -14,7 +14,7 @@ namespace Lab07 {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("TextToSpeechDemo.xaml")]
-    public partial class TextToSpeechDemo : global::Xamarin.Forms.ContentView {
+    public partial class TextToSpeechDemo : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {

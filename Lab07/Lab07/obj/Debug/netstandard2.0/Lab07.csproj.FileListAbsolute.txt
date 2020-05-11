@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfo.cs

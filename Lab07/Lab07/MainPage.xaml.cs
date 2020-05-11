@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+
 namespace Lab07
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
@@ -21,16 +22,16 @@ namespace Lab07
                 await Navigation.PushAsync(new TextToSpeechDemo());
 
             };
-            /*Item13.Clicked += async (sender, e) =>
+            Item13.Clicked += async (sender, e) =>
             {
-                await Navigation.PushAsync(new IBattery());
+      
 
             };
             Item14.Clicked += async (sender, e) =>
             {
-                await Navigation.PushAsync(new CodeQR());
+          
 
-            };*/
+            };
         }
     }
 }

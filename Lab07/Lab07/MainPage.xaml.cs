@@ -24,12 +24,16 @@ namespace Lab07
             };
             Item13.Clicked += async (sender, e) =>
             {
-      
+
+                await Navigation.PushAsync(new BatteryDemo());
+
 
             };
             Item14.Clicked += async (sender, e) =>
             {
-          
+
+                await Navigation.PushAsync(new CodeQR());
+
 
             };
         }

@@ -4,3 +4,12 @@ C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\MainPage.xam
 C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
 C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfoInputs.cache
 C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfo.cs
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.deps.json
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.dll
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\CodeQR.xaml.g.cs
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\bin\Debug\netstandard2.0\ref\Lab07.dll
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.pdb
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.dll
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\ref\Lab07.dll
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.pdb
+C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\XamlC.stamp

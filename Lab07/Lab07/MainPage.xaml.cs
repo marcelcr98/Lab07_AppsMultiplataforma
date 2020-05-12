@@ -29,7 +29,9 @@ namespace Lab07
             };
             Item14.Clicked += async (sender, e) =>
             {
-          
+
+                await Navigation.PushAsync(new CodeQR());
+
 
             };
         }

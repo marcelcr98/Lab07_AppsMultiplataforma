@@ -2,6 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
-    <SelectedDevice>Samsung SM-G532M</SelectedDevice>
+    <SelectedDevice>Android_Accelerated_x86_Oreo</SelectedDevice>
+    <DefaultDevice>Android_Accelerated_x86_Oreo</DefaultDevice>
   </PropertyGroup>
 </Project>

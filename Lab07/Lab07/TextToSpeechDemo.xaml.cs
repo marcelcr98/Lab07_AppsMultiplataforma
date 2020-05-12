@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -21,18 +16,17 @@ namespace Lab07
             // Text-to-Speech
             var speak = new Button
             {
-                Text = "Hello, Forms !",
+                Text = "Hola, Todos (Presioname) !",
                 VerticalOptions = LayoutOptions.CenterAndExpand,
                 HorizontalOptions = LayoutOptions.CenterAndExpand,
             };
             speak.Clicked += (sender, e) =>
             {
-                DependencyService.Get<ITextToSpeech>().Speak("Hello from Xamarin Forms");
+                DependencyService.Get<ITextToSpeech>().Speak("Hola de Xamarin Forms por Vilcapoma");
             };
             stack.Children.Add(speak);
 
             Content = speak;
         }
-
     }
 }

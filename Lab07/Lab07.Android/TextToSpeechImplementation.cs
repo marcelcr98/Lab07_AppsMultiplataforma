@@ -1,14 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Android.App;
-using Android.Content;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-using Android.Speech.Tts;
+﻿using Android.Speech.Tts;
 using Xamarin.Forms;
 using Lab07.Droid;
 
@@ -21,14 +11,15 @@ namespace Lab07.Droid
     {
         TextToSpeech speaker;
         string toSpeak;
-
         public void Speak(string text)
         {
             toSpeak = text;
             if (speaker == null)
             {
 
-                speaker = new TextToSpeech(Forms.Context, this);
+#pragma warning disable CS0618 // El tipo o el miembro están obsoletos
+                speaker = new TextToSpeech(context: Forms.Context, listener: this);
+#pragma warning restore CS0618 // El tipo o el miembro están obsoletos
             }
             else
             {

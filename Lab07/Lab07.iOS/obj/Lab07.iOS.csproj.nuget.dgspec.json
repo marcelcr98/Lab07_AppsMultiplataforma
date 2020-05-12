@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj": {}
+    "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj": {
+    "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj",
+        "projectUniqueName": "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj",
         "projectName": "Lab07.iOS",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07.iOS\\obj\\",
+        "projectPath": "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj",
+        "packagesPath": "C:\\Users\\marvi\\.nuget\\packages\\",
+        "outputPath": "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07\\Lab07.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07\\Lab07.csproj"
+              "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07\\Lab07.csproj": {
+                "projectPath": "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07\\Lab07.csproj"
               }
             }
           }
@@ -65,20 +65,21 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07\\Lab07.csproj": {
+    "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07\\Lab07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07\\Lab07.csproj",
+        "projectUniqueName": "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07\\Lab07.csproj",
         "projectName": "Lab07",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07\\Lab07.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07\\obj\\",
+        "projectPath": "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07\\Lab07.csproj",
+        "packagesPath": "C:\\Users\\marvi\\.nuget\\packages\\",
+        "outputPath": "C:\\2020-1\\AppMultiplataforma\\Semana7\\Laboratorio\\Lab07_AppsMultiplataforma\\Lab07\\Lab07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -128,7 +129,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

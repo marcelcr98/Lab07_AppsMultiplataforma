@@ -1932,24 +1932,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Users\\Luis Angel\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07.Android\\Lab07.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\semana07\\Lab07_AppsMultiplataforma\\Lab07\\Lab07.Android\\Lab07.Android.csproj",
       "projectName": "Lab07.Android",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07.Android\\Lab07.Android.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07.Android\\obj\\",
+      "projectPath": "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\semana07\\Lab07_AppsMultiplataforma\\Lab07\\Lab07.Android\\Lab07.Android.csproj",
+      "packagesPath": "C:\\Users\\Luis Angel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\semana07\\Lab07_AppsMultiplataforma\\Lab07\\Lab07.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luis Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07\\Lab07.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\repos\\Lab07\\Lab07\\Lab07\\Lab07.csproj"
+            "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\semana07\\Lab07_AppsMultiplataforma\\Lab07\\Lab07\\Lab07.csproj": {
+              "projectPath": "C:\\Users\\Luis Angel\\Desktop\\Xamarin (Torrico)\\semana07\\Lab07_AppsMultiplataforma\\Lab07\\Lab07\\Lab07.csproj"
             }
           }
         }

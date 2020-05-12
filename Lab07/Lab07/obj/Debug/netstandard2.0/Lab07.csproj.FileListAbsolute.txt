@@ -4,3 +4,18 @@ C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\MainPage.xam
 C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
 C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfoInputs.cache
 C:\Users\hp\source\repos\Lab07\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfo.cs
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.deps.json
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.dll
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\bin\Debug\netstandard2.0\ref\Lab07.dll
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\bin\Debug\netstandard2.0\Lab07.pdb
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.csprojAssemblyReference.cache
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfo.cs
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.dll
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\ref\Lab07.dll
+C:\Users\Luis Angel\Desktop\Xamarin (Torrico)\semana07\Lab07_AppsMultiplataforma\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.pdb

@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
@@ -22,10 +24,9 @@ namespace Lab07
                 await Navigation.PushAsync(new TextToSpeechDemo());
 
             };
-            Item13.Clicked += async (sender, e) =>
+            Item13.Clicked += async (sender, e) => 
             {
-      
-
+                await Navigation.PushAsync(new BatteryDemo());
             };
             Item14.Clicked += async (sender, e) =>
             {

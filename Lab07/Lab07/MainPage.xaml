@@ -8,9 +8,8 @@
 
 
         <StackLayout>
-            <Button x:Name="Item12" Text="Text To Speech"/>
-            <Button x:Name="Item13" Text="IBattery"/>
-            <Button x:Name="Item14" Text="CodeQR"/>
+            <Button x:Name="Item1" Text="Text To Speech"/>
+            
         </StackLayout>
       
 

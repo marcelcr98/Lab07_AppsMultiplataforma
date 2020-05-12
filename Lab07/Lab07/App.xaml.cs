@@ -10,7 +10,7 @@ namespace Lab07
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new TextToSpeechDemo());
         }
 
         protected override void OnStart()

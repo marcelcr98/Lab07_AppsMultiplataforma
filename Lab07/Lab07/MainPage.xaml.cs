@@ -17,11 +17,12 @@ namespace Lab07
         public MainPage()
         {
             InitializeComponent();
-            Item12.Clicked += async (sender, e) =>
+            Item1.Clicked += async (sender, e) =>
             {
                 await Navigation.PushAsync(new TextToSpeechDemo());
 
             };
+            /*
             Item13.Clicked += async (sender, e) =>
             {
       
@@ -32,6 +33,7 @@ namespace Lab07
           
 
             };
+            */
         }
     }
 }
